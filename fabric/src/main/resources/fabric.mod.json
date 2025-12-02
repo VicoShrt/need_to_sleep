@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "need_to_sleep",
+  "version": "${version}",
+  "name": "Need to Sleep",
+  "description": "Adds a system, that forces the player to sleep after some time.",
+  "authors": [
+    "Vico Shortman"
+  ],
+  "contact": {
+    "homepage": "https://vico.shortman.me",
+    "sources": "https://github.com/"
+  },
+  "license": "MIT",
+  "icon": "assets/need_to_sleep/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "me.shortman.mc.fabric.NeedToSleepFabric"
+    ],
+    "client": [
+      "me.shortman.mc.fabric.client.NeedToSleepFabricClient"
+    ]
+  },
+  "mixins": [
+    "need_to_sleep.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "architectury": ">=13.0.8",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/need_to_sleep.common.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/need_to_sleep.fabric.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/need_to_sleep.fabric.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/need_to_sleep.fabric.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/need_to_sleep.fabric.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/need_to_sleep.neoforge.main.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/need_to_sleep.neoforge.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/neoforge/need_to_sleep.neoforge.test.iml" filepath="$PROJECT_DIR$/.idea/modules/neoforge/need_to_sleep.neoforge.test.iml" />
+    </modules>
+  </component>
+</project>
